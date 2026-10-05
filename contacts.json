@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Sanjay Kumaar",
+    "email": "sanjay@gmail.com",
+    "phone": "+916385773009",
+    "tags": [
+      "mine",
+      "personal"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Prusothuman",
+    "email": "prusothuman@gmail.com",
+    "phone": "+919443049076",
+    "tags": [
+      "father"
+    ]
+  }
+]
